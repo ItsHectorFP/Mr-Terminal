@@ -3,7 +3,7 @@ I am a High School Senior who likes computers, technology, and video games! I al
 
 Computers, software, and technology is a field that I'm intrested in since I was a little boy. Ever since I touched a Windows XP computer back in Elementry school and touched an Android smartphone in the early 2010s, it was an interesting and curious place to be. Android was in it's infancy, Windows was new to me, software was fun to use, hardware was interesting to look at, etc., it's pretty much me exploring a lot of things technology. It was amazing!
 
-To this day, it still is amazing. Even though my happy childhood is now in the past, the small instict of a little kid is still inside me. And that is curosity. Even though I'm at high school, I still want to explore the uncharted realm of technology. HTML, CSS, Android, Linux, open-source technology, there's so much to explore! And I'm just scratching the surface.
+To this day, it still is amazing. Even though my happy childhood is now in the past, the small instict of a little kid is still inside me. And that is curiosity. Even though I'm at high school, I still want to explore the uncharted realm of technology. HTML, CSS, Android, Linux, open-source technology, there's so much to explore! And I'm just scratching the surface.
 
 I also make artwork from time to time. I use Source Filmmaker and Blender to create my artworks. While they may not be in a professional quality, at least that's what I assume, that's the level you are seeing right now. I do it because it's a passion of myself.
 
