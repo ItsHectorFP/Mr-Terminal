@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to the Mr. Terminal Website!
 
-You can use the [editor on GitHub](https://github.com/Mr-Terminal/Mr-Terminal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+There's nothing much here right now since this is new material. Maybe it'll look cool in the future? I'll give you a rundown on what the website will offer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## The Blog
 
-### Markdown
+Whatever I have to say in my mind, I may post it here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Okay, maybe that's not really true, but I do want to share some things because of a lot of things. Like software, commentary about how I was able to get into XYZ, quick little things about a photo I took... basically, anything I can come up with. So yeah, just words out of my mouth.
 
-```markdown
-Syntax highlighted code block
+## Videos
 
-# Header 1
-## Header 2
-### Header 3
+Usually quick videos I make using the Source Filmmaker because why not? But I also make random videos because after all, what else can you make with software at your fingertips? Maybe I'll get into making videos that have to do with Discord conversations. Maybe with a good spin.
 
-- Bulleted
-- List
+## Renders
 
-1. Numbered
-2. List
+Okay, this is a good one!
 
-**Bold** and _Italic_ and `Code` text
+I've been making renders since 2018 or 2019 for the most part. The majority of the renders are made using Source Filmmaker or Blender. Ranging from Vocaloid to my original character, it's pretty much a land of imagination. And if you expect professional quality? Ehh... not really. More like "quality of an intermediate artist." Maybe.
 
-[Link](url) and ![Image](src)
-```
+## About
+There's nothing special about that page. Do I really have to explain it to you?
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mr-Terminal/Mr-Terminal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+So yeah. That's pretty much it. I may have to explain more during the development of this website. Check back and you might see something new.
