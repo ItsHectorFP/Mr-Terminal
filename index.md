@@ -26,4 +26,4 @@ So yeah. That's pretty much it. I may have to explain more during the developmen
 ### About
 This website was created using [GitHub Pages](https://pages.github.com/).
 
-Follow, Raw, or Blame me at these pages: | [YouTube]() | [Twitter]() | [Instagram]() | [DeviantArt]() | [GitHub]()
+Follow, Raw, or Blame me at these pages: | [YouTube](https://www.youtube.com/channel/UCTgxTz5PGP9HxlJWwIgUr1w) | [DeviantArt](https://www.deviantart.com/itsmrterminal) | [GitHub](https://github.com/Mr-Terminal)
