@@ -22,3 +22,8 @@ I've been making renders since 2018 or 2019 for the most part. The majority of t
 There's nothing special about that page. Do I really have to explain it to you?
 
 So yeah. That's pretty much it. I may have to explain more during the development of this website. Check back and you might see something new.
+
+### About
+This website was created using [GitHub Pages](https://pages.github.com/).
+
+Follow, Raw, or Blame me at these pages: [YouTube]() | [Twitter]() | [Instagram]() | [DeviantArt]() | [GitHub]()
